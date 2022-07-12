@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.7.3",
+    "redis": "^4.2.0",
+    "sequelize": "^6.21.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "name": "redis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
